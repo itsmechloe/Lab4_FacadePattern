@@ -17,4 +17,5 @@ FrontDesk: The facade class that coordinates interactions between the client (Ho
 HotelApp: The client class that uses the FrontDesk facade to access and utilize hotel services seamlessly.
 
 ## UML Design
+<img width="4824" height="2280" alt="mermaid-ai-diagram-2026-10-07-152806" src="https://github.com/user-attachments/assets/59f43f2b-737e-4946-8bed-65447317dc40" />
 
